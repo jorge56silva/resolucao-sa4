@@ -1,9 +1,0 @@
-Boa tarde,
-
-Modificado os contatos como solicitado pelo solicitante e redirencionado corretamente para fora do site:
-
-Identificado que caminho para a imagem não estáva com o comando correto aplicado do {% load static %}
-Necessario aplicar na rota o {% static "page_app\img\imagem_2.jpg" %}"
-Após aplicado o comando corretamente as imagens conseguiram puxar corretamente no site.
-
-Criado mais uma rota para que da pagina serviço o site consiga acessar a aba contato.
